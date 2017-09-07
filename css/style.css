@@ -32,4 +32,45 @@ width: 100%;
   font-size: small;
   width: 100%;
 
+  /* FIX TEXT WIDTH IF TIME ALLOWS */
+
+}
+
+
+.panel-green .panel-heading {
+  background-color: #cef2e0;
+}
+
+.panel-green {
+  background-color: transparent;
+}
+
+#content-column-1 {
+  background-color: #f4fff9;
+}
+
+
+.panel-blue .panel-heading {
+  background-color: #c9deff;
+}
+
+.panel-blue {
+  background-color: transparent;
+}
+
+#content-column-2 {
+  background-color: #f2f7ff;
+}
+
+
+.panel-purple .panel-heading {
+  background-color: #edd6ff;
+}
+
+.panel-purple {
+  background-color: transparent;
+}
+
+#content-column-3 {
+  background-color: #f8efff;
 }
