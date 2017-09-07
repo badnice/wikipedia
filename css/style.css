@@ -10,6 +10,7 @@
 
 .custom-panel-footer-left {
   text-align: left;
+
 }
 
  #wikipedialogo {
@@ -18,7 +19,17 @@ width: 100%;
  }
 .custom-left {
   float: left;
+  padding-right: 15px;
+  padding-bottom: 15px;
 }
 .custom-right {
+  padding-left: 15px;
+  padding-bottom: 15px;
   float: right;
+}
+
+.photo-caption {
+  font-size: small;
+  width: 100%;
+
 }
