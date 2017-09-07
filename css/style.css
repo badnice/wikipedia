@@ -1,8 +1,22 @@
-/* navigation header text color #444444 */
-
-#id {
-  background-color: #efefef;
+body {
+  background: linear-gradient(white, #f0f0f0, #f0f0f0, #f0f0f0, #f0f0f0, #f0f0f0, #f0f0f0, #f0f0f0, #f0f0f0, #f0f0f0, #f0f0f0, #f0f0f0, #f0f0f0, #f0f0f0, #f0f0f0);
 }
+
+.navpanel {
+  margin-left: 30px;
+  padding-top: 20px;
+}
+
+.nav-header {
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
 
 .custom-panel-footer-right {
   text-align: right;
