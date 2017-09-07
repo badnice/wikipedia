@@ -12,9 +12,17 @@ body {
 }
 
 
+#news-header {
+ border: solid red 1px;
+}
 
+#news-header-text {
+  text-align: center;
+}
 
-
+#welcome-header {
+  
+}
 
 
 
