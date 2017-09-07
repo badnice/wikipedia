@@ -11,3 +11,14 @@
 .custom-panel-footer-left {
   text-align: left;
 }
+
+ #wikipedialogo {
+width: 100%;
+
+ }
+.custom-left {
+  float: left;
+}
+.custom-right {
+  float: right;
+}
