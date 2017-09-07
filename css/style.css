@@ -3,3 +3,11 @@
 #id {
   background-color: #efefef;
 }
+
+.custom-panel-footer-right {
+  text-align: right;
+}
+
+.custom-panel-footer-left {
+  text-align: left;
+}
